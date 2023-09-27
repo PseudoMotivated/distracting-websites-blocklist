@@ -11,3 +11,4 @@ I also included my `settings.json` file for the extension which you can import b
 5. Enjoy not wasting your time!
 
 Feel free to PR!
+Credit to https://github.com/DWW256/distracting-websites , most entries are from there, I expanded a little on it from a reddit post I found.
